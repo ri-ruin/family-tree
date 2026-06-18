@@ -1,0 +1,26 @@
+# Maven build output
+target/
+
+# Java bytecode (if accidentally created outside target)
+*.class
+
+# IDE files (IntelliJ / Eclipse / VS Code)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Logs
+*.log
+
+# Personal notes / local-only workspace
+.personal/
